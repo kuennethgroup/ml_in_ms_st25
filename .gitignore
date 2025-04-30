@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+AutogluonModels
+tmp
+*delete_later*
+lightning_logs
+my_pytorch_model
