@@ -12,6 +12,7 @@ dependencies = [
     "ipywidgets>=8.1.6",
     "matplotlib>=3.10.1",
     "pandas>=2.2.3",
+    "umap-learn[plot]>=0.5.7",
     "wikipedia-api>=0.8.1",
     "wordcloud>=1.9.4",
 ]
