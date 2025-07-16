@@ -17,6 +17,7 @@ dependencies = [
     "pydot>=4.0.1",
     "sdv>=1.18.0",
     "seaborn>=0.13.2",
+    "streamlit>=1.46.1",
     "tensorflow>=2.18.1",
     "umap-learn[plot]>=0.5.7",
     "wikipedia-api>=0.8.1",
