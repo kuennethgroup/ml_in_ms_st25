@@ -6,12 +6,14 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "autogluon>=1.2",
+    "ax-platform>=1.0.0",
     "flaml[automl]>=2.3.4",
     "google-genai>=1.12.1",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.6",
     "jax>=0.5.3",
     "matplotlib>=3.10.1",
+    "nbformat>=5.10.4",
     "pandas>=2.2.3",
     "psmiles[polybert]",
     "pydot>=4.0.1",
